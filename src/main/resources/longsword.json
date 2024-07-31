@@ -1,0 +1,18 @@
+{
+  "type": "SWORD",
+  "id": "LONG_SWORD",
+  "map": {
+    "1": {
+      "successChance": 1,
+      "downGradeChance": 0
+    },
+    "2": {
+      "successChance": 0.8,
+      "downGradeChance": 0.2
+    },
+    "3": {
+      "successChance": 0.1,
+      "downGradeChance": 1
+    }
+  }
+}

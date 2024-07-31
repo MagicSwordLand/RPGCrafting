@@ -1,0 +1,25 @@
+{
+  "title": "lol",
+  "craftingRecipes": [
+    {
+      "mmoType": "SWORD",
+      "mmoID": "LONG_SWORD",
+      "command": "give %player% diamond 3",
+      "cost": 10.3,
+      "duration": 10,
+      "recipe": [
+        "SWORD:LONG_SWORD:1",
+        "",
+        "SWORD:LONG_SWORD:1",
+        "",
+        "SWORD:LONG_SWORD:1",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+
+}
